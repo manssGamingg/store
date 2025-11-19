@@ -2,7 +2,7 @@ const CONFIG = {
 nama: "Manss Store", // Nama Store
 profil: "https://files.catbox.moe/hg3u00.jpg", // Url Profil
 banner: "https://files.catbox.moe/vr5j9c.jpg", // Url Banner 
-tentang: "Manss Store adalah toko online terpercaya yang telah melayani ribuan pelanggan sejak 2024. Kami menyediakan berbagai produk digital untuk kebutuhan sehari-hari dengan kualitas terbaik dan harga terjangkau.\n\nKomitmen kami adalah memberikan pengalaman berbelanja yang menyenangkan dengan pelayanan terbaik, produk original, dan garansi resmi untuk semua produk yang kami jual.",
+tentang: "Manss Store adalah toko online terpercaya yang telah melayani pelanggan sejak 2024. Kami menyediakan berbagai produk digital untuk kebutuhan sehari-hari dengan kualitas terbaik dan harga terjangkau.\n\nKomitmen kami adalah memberikan pengalaman berbelanja yang menyenangkan dengan pelayanan terbaik, produk original, dan garansi resmi untuk semua produk yang kami jual.",
 alamat: "Jl. rusun waduk pluit blok 10, Jakarta Utara, Indonesia",
 sosial_media: {
   email: "manssstore82@gmail.com", // Email
@@ -53,8 +53,8 @@ const productsData = {
                 "icon": "fas fa-fish",
                 "description": "secret tumbal adalah untuk menukarkan stone enchant II",
                 "variants": [
-                  { "name": "1 SECRET ", "price": 6000 },
-                  { "name": "2 SECRET ", "price": 10000 }
+                  { "name": "1 SECRET ", "price": 4000 },
+                  { "name": "2 SECRET ", "price": 8000 }
                 ]
               },
               {
@@ -63,8 +63,8 @@ const productsData = {
                 "icon": "fas fa-coins",
                 "description": "Coin Fish It",
                 "variants": [
-                  { "name": "1M coin ", "price": 12000 },
-                  { "name": "2M coin ", "price": 20000 }
+                  { "name": "1M coin ", "price": 10000 },
+                  { "name": "2M coin ", "price": 18000 }
                   ]
               }, 
               {
