@@ -60,7 +60,7 @@ const productsData = {
               {
                 "id": 3,
                 "name": "coin fish it",
-                "icon": "fas fa-coin",
+                "icon": "fas fa-coins",
                 "description": "Coin Fish It",
                 "variants": [
                   { "name": "1M coin ", "price": 12000 },
