@@ -1,9 +1,9 @@
 const CONFIG = {
-nama: "Zass Desuta", // Nama Store
-profil: "https://files.catbox.moe/etyco1.jpeg", // Url Profil
-banner: "https://files.catbox.moe/9gr5z6.jpeg", // Url Banner 
-tentang: "Zass Desuta adalah toko online terpercaya yang telah melayani ribuan pelanggan sejak 2020. Kami menyediakan berbagai produk digital untuk kebutuhan sehari-hari dengan kualitas terbaik dan harga terjangkau.\n\nKomitmen kami adalah memberikan pengalaman berbelanja yang menyenangkan dengan pelayanan terbaik, produk original, dan garansi resmi untuk semua produk yang kami jual.",
-alamat: "Jl. Contoh No. 123, Jakarta, Indonesia",
+nama: "Manss Store", // Nama Store
+profil: "https://files.catbox.moe/hg3u00.jpg", // Url Profil
+banner: "https://files.catbox.moe/vr5j9c.jpg", // Url Banner 
+tentang: "Manss Store adalah toko online terpercaya yang telah melayani ribuan pelanggan sejak 2020. Kami menyediakan berbagai produk digital untuk kebutuhan sehari-hari dengan kualitas terbaik dan harga terjangkau.\n\nKomitmen kami adalah memberikan pengalaman berbelanja yang menyenangkan dengan pelayanan terbaik, produk original, dan garansi resmi untuk semua produk yang kami jual.",
+alamat: "Jl. rusun waduk pluit blok 10, Jakarta Utara, Indonesia",
 sosial_media: {
   email: "manssstore82@gmail.com", // Email
   youtube: "-", // YouTube Username 
