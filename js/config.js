@@ -68,13 +68,13 @@ const productsData = {
                   ]
               }, 
               {
-                " id": 4,
-                "name": " Enchant-Stone", 
-                "icon": "fas fa-stones", 
-                " description": "Untuk enchant rod kalian", 
-                " variants": [
-                  { "name" : "15 enchant stone", " price": 1000 }, 
-                  { "name" : "35 enchant Stone", " price": 2000 }
+                "id": 4,
+                "name": "Enchant-Stone", 
+                "icon": "fas fa-stone", 
+                "description": "Untuk enchant rod kalian", 
+                "variants": [
+                  { "name" : "15 enchant stone", "price": 1000 }, 
+                  { "name" : "35 enchant Stone", "price": 2000 }
                 ]
               }
               ],
