@@ -66,11 +66,20 @@ const productsData = {
                   { "name": "1M coin ", "price": 12000 },
                   { "name": "2M coin ", "price": 20000 }
                   ]
-              }
+              }, 
+              {
+                " id": 4,
+                "name": " Enchant-Stone", 
+                "icon": "fas fa-stone", 
+                " description": "Untuk enchant rod kalian", 
+                " variants": [
+                  { "name" : "15 enchant stone", " price": 1000 }, 
+                  { "name" : "35 enchant Stone", " price": 2000 }
+                ]
               ],
             "Produk Digital": [
                 {
-                    id: 4,
+                    id: 5,
                     name: "E-Book",
                     icon: "fas fa-book",
                     description: "Koleksi e-book digital dengan berbagai topik menarik, mulai dari bisnis, programming, hingga hobi.",
@@ -78,50 +87,6 @@ const productsData = {
                         { name: "E-Book Bisnis", price: 15000 },
                         { name: "E-Book Programming", price: 20000 },
                         { name: "E-Book Random Pack", price: 10000 }
-                    ]
-                },
-                {
-                    id: 5,
-                    name: "Software & Tools",
-                    icon: "fas fa-cogs",
-                    description: "Software dan tools digital untuk menunjang pekerjaan maupun kebutuhan kreatif.",
-                    variants: [
-                        { name: "Software Editing", price: 30000 },
-                        { name: "Software Utility", price: 25000 },
-                        { name: "Tools Random Pack", price: 20000 }
-                    ]
-                },
-                {
-                    id: 6,
-                    name: "Lisensi & Key",
-                    icon: "fas fa-key",
-                    description: "Produk lisensi resmi dan serial key untuk software pilihan.",
-                    variants: [
-                        { name: "Windows Key", price: 50000 },
-                        { name: "Office Key", price: 60000 },
-                        { name: "Antivirus Key", price: 40000 }
-                    ]
-                },
-                {
-                    id: 7,
-                    name: "Template Digital",
-                    icon: "fas fa-file-alt",
-                    description: "Template digital untuk desain, presentasi, website, dan media sosial.",
-                    variants: [
-                        { name: "Template PowerPoint", price: 10000 },
-                        { name: "Template Website", price: 30000 },
-                        { name: "Template Sosmed", price: 15000 }
-                    ]
-                },
-                {
-                    id: 8,
-                    name: "Akun Premium",
-                    icon: "fas fa-user-circle",
-                    description: "Berbagai akun premium dengan harga terjangkau, cocok untuk hiburan dan produktivitas.",
-                    variants: [
-                        { name: "Netflix Premium (1 Bulan)", price: 35000 },
-                        { name: "Spotify Premium (1 Bulan)", price: 25000 },
-                        { name: "Canva Pro (1 Bulan)", price: 20000 }
                     ]
                 }
             ]
