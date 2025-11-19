@@ -15,7 +15,7 @@ payment: {
   dana: "085922913854", // Payment Dana
   gopay: "085922913854", // Payment Gopay 
   ovo: "085922913854", // Payment Ovo 
-  qris: "https://linkqr.kamu.mom" // Url Qris
+  qris: "https://files.catbox.moe/s13wpw.jpg" // Url Qris
 },
 telegram_api: {
   bot: "62828278:7678blablabla", // Token bot father
