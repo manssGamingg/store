@@ -5,16 +5,16 @@ banner: "https://files.catbox.moe/9gr5z6.jpeg", // Url Banner
 tentang: "Zass Desuta adalah toko online terpercaya yang telah melayani ribuan pelanggan sejak 2020. Kami menyediakan berbagai produk digital untuk kebutuhan sehari-hari dengan kualitas terbaik dan harga terjangkau.\n\nKomitmen kami adalah memberikan pengalaman berbelanja yang menyenangkan dengan pelayanan terbaik, produk original, dan garansi resmi untuk semua produk yang kami jual.",
 alamat: "Jl. Contoh No. 123, Jakarta, Indonesia",
 sosial_media: {
-  email: "pengen-loli@zass.cloud", // Email
-  youtube: "zassci_desu", // YouTube Username 
-  tiktok: "zass.id", // Tiktok Username 
-  whatsapp: "6288888888", // WhatsApp Number 
-  telegram: "zasstamvan" // Telegram Username
+  email: "manssstore82@gmail.com", // Email
+  youtube: "-", // YouTube Username 
+  tiktok: "Man_gamingg", // Tiktok Username 
+  whatsapp: "6285945527763", // WhatsApp Number 
+  telegram: "peeeeemansss" // Telegram Username
 },
 payment: {
-  dana: "085298027445", // Payment Dana
-  gopay: "085298027445", // Payment Gopay 
-  ovo: "085298027445", // Payment Ovo 
+  dana: "085922913854", // Payment Dana
+  gopay: "085922913854", // Payment Gopay 
+  ovo: "085922913854", // Payment Ovo 
   qris: "https://linkqr.kamu.mom" // Url Qris
 },
 telegram_api: {
