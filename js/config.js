@@ -44,7 +44,9 @@ const productsData = {
                   { "name": "10GB RAM", "price": 6000 },
                   { "name": "Unlimited RAM", "price": 5000 }
                 ]
-              },
+              }
+            ],
+            "Kebutuhan Fish it": [
               {
                 "id": 2,
                 "name": "secret tumbal",
@@ -57,97 +59,18 @@ const productsData = {
               },
               {
                 "id": 3,
-                "name": "VPS Menengah",
-                "icon": "fas fa-hdd",
-                "description": "VPS menengah dengan performa cukup untuk website atau panel hosting.",
+                "name": "coin fish it",
+                "icon": "fas fa-coin",
+                "description": "Coin Fish It",
                 "variants": [
-                  { "name": "2 vCPU / 4GB RAM / 80GB SSD", "price": 75000 },
-                  { "name": "4 vCPU / 8GB RAM / 160GB SSD", "price": 135000 }
-                ]
-              },
-              {
-                "id": 4,
-                "name": "Dedicated Server",
-                "icon": "fas fa-database",
-                "description": "Server dedicated dengan performa tinggi, cocok untuk skala besar.",
-                "variants": [
-                  { "name": "8 vCPU / 32GB RAM / 500GB SSD", "price": 450000 },
-                  { "name": "16 vCPU / 64GB RAM / 1TB SSD", "price": 800000 }
-                ]
-              },
-              {
-                "id": 5,
-                "name": "Web Hosting",
-                "icon": "fas fa-globe",
-                "description": "Hosting website dengan panel cPanel / DirectAdmin, cocok untuk pemula.",
-                "variants": [
-                  { "name": "Starter (1GB Storage)", "price": 15000 },
-                  { "name": "Basic (5GB Storage)", "price": 30000 },
-                  { "name": "Pro (10GB Storage)", "price": 50000 }
-                ]
+                  { "name": "1M coin ", "price": 12000 },
+                  { "name": "2M coin ", "price": 20000 }
+                  ]
               }
-            ],
-            "Desain": [
-                {
-                    id: 6,
-                    name: "Desain Logo",
-                    icon: "fas fa-pen-nib",
-                    description: "Jasa pembuatan logo dengan berbagai gaya desain. Cocok untuk brand, usaha, atau komunitas.",
-                    variants: [
-                        { name: "Logo Minimalis", price: 2000 },
-                        { name: "Logo Typography", price: 2500 },
-                        { name: "Logo Mascot", price: 3000 },
-                        { name: "Logo Vintage", price: 4000 },
-                        { name: "Logo Modern", price: 5000 },
-                        { name: "Request Custom", price: "Harga sesuai request" }
-                    ]
-                },
-                {
-                    id: 7,
-                    name: "Desain Banner",
-                    icon: "fas fa-image",
-                    description: "Jasa pembuatan banner untuk promosi usaha, media sosial, atau event.",
-                    variants: [
-                        { name: "Banner Sosmed", price: 15000 },
-                        { name: "Banner Event", price: 25000 },
-                        { name: "Banner Promosi", price: 30000 }
-                    ]
-                },
-                {
-                    id: 8,
-                    name: "Desain Poster",
-                    icon: "fas fa-scroll",
-                    description: "Jasa desain poster kreatif untuk kebutuhan bisnis, acara, atau publikasi.",
-                    variants: [
-                        { name: "Poster A4", price: 20000 },
-                        { name: "Poster A3", price: 35000 }
-                    ]
-                },
-                {
-                    id: 9,
-                    name: "UI/UX Design",
-                    icon: "fas fa-laptop-code",
-                    description: "Jasa desain UI/UX untuk website atau aplikasi dengan tampilan modern dan user-friendly.",
-                    variants: [
-                        { name: "Landing Page", price: 75000 },
-                        { name: "Full Website", price: 250000 },
-                        { name: "Mobile App UI", price: 300000 }
-                    ]
-                },
-                {
-                    id: 10,
-                    name: "Desain Kartu Nama",
-                    icon: "fas fa-id-card",
-                    description: "Jasa desain kartu nama profesional untuk bisnis atau personal branding.",
-                    variants: [
-                        { name: "Basic", price: 10000 },
-                        { name: "Premium", price: 20000 }
-                    ]
-                }
-            ],
+              ],
             "Produk Digital": [
                 {
-                    id: 11,
+                    id: 4,
                     name: "E-Book",
                     icon: "fas fa-book",
                     description: "Koleksi e-book digital dengan berbagai topik menarik, mulai dari bisnis, programming, hingga hobi.",
@@ -158,7 +81,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 12,
+                    id: 5,
                     name: "Software & Tools",
                     icon: "fas fa-cogs",
                     description: "Software dan tools digital untuk menunjang pekerjaan maupun kebutuhan kreatif.",
@@ -169,7 +92,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 13,
+                    id: 6,
                     name: "Lisensi & Key",
                     icon: "fas fa-key",
                     description: "Produk lisensi resmi dan serial key untuk software pilihan.",
@@ -180,7 +103,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 14,
+                    id: 7,
                     name: "Template Digital",
                     icon: "fas fa-file-alt",
                     description: "Template digital untuk desain, presentasi, website, dan media sosial.",
@@ -191,7 +114,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 15,
+                    id: 8,
                     name: "Akun Premium",
                     icon: "fas fa-user-circle",
                     description: "Berbagai akun premium dengan harga terjangkau, cocok untuk hiburan dan produktivitas.",
