@@ -76,6 +76,7 @@ const productsData = {
                   { "name" : "15 enchant stone", " price": 1000 }, 
                   { "name" : "35 enchant Stone", " price": 2000 }
                 ]
+              }
               ],
             "Produk Digital": [
                 {
