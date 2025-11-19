@@ -49,10 +49,10 @@ const productsData = {
                 "id": 2,
                 "name": "secret tumbal",
                 "icon": "fas fa-fish",
-                "description": "Virtual Private Server murah untuk belajar dan project kecil.",
+                "description": "secret tumbal adalah untuk menukarkan stone enchant II",
                 "variants": [
-                  { "name": "1 vCPU / 1GB RAM / 20GB SSD", "price": 25000 },
-                  { "name": "2 vCPU / 2GB RAM / 40GB SSD", "price": 45000 }
+                  { "name": "1 SECRET ", "price": 6000 },
+                  { "name": "2 SECRET ", "price": 10000 }
                 ]
               },
               {
