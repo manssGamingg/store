@@ -70,7 +70,7 @@ const productsData = {
               {
                 "id": 4,
                 "name": "Enchant-Stone", 
-                "icon": "fas fa-eercast", 
+                "icon": "fa fa-eercast", 
                 "description": "Untuk enchant rod kalian", 
                 "variants": [
                   { "name" : "15 enchant stone", "price": 1000 }, 
