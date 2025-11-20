@@ -76,6 +76,15 @@ const productsData = {
                   { "name" : "15 enchant stone", "price": 1000 }, 
                   { "name" : "35 enchant Stone", "price": 2000 }
                 ]
+              }, 
+              {
+                " id": 5,
+                "name": "Totem", 
+                "icon": "fas fa-broadcast-tower",
+                "description": "untuk menambahkan buff pasif dengan waktu terbatas NOTE : tidak bisa di gift", 
+                " variants": [
+                  { "name" : "1 totem", " price": 1000}
+                ]
               }
               ],
             "Produk Digital": [
