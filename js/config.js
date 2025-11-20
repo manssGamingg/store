@@ -83,13 +83,13 @@ const productsData = {
                 "icon": "fas fa-broadcast-tower",
                 "description": "untuk menambahkan buff pasif dengan waktu terbatas NOTE : tidak bisa di gift", 
                 " variants": [
-                  { "name" : "1 totem", " price": 1000}
+                  { "name" : "1 totem", "price": 1000 }
                 ]
               }
               ],
             "Produk Digital": [
                 {
-                    id: 5,
+                    id: 6,
                     name: "E-Book",
                     icon: "fas fa-book",
                     description: "Koleksi e-book digital dengan berbagai topik menarik, mulai dari bisnis, programming, hingga hobi.",
