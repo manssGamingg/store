@@ -78,11 +78,11 @@ const productsData = {
                 ]
               }, 
               {
-                " id": 5,
+                "id": 5,
                 "name": "Totem", 
                 "icon": "fas fa-broadcast-tower",
                 "description": "untuk menambahkan buff pasif dengan waktu terbatas NOTE : tidak bisa di gift", 
-                " variants": [
+                "variants": [
                   { "name" : "1 totem", "price": 1000 }
                 ]
               }
