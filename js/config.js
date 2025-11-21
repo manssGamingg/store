@@ -83,7 +83,9 @@ const productsData = {
                 "icon": "fas fa-broadcast-tower",
                 "description": "untuk menambahkan buff pasif dengan waktu terbatas NOTE : tidak bisa di gift", 
                 "variants": [
-                  { "name" : "1 totem", "price": 1000 }
+                  { "name" : "1 lucky totem", "price": 1000 }, 
+                  { "name" : "1 shiny totem", "price": 1500 }, 
+                  { "name" : "1 mutation totem", "price": 2000 }
                 ]
               }
               ],
