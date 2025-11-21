@@ -63,8 +63,8 @@ const productsData = {
                 "icon": "fas fa-coins",
                 "description": "Coin Fish It",
                 "variants": [
-                  { "name": "1M coin ", "price": 10000 },
-                  { "name": "2M coin ", "price": 18000 }
+                  { "name": "1M coin ", "price": 8000 },
+                  { "name": "2M coin ", "price": 15000 }
                   ]
               }, 
               {
