@@ -53,8 +53,8 @@ const productsData = {
                 "icon": "fas fa-fish",
                 "description": "secret tumbal adalah untuk menukarkan stone enchant II",
                 "variants": [
-                  { "name": "1 SECRET ", "price": 4000 },
-                  { "name": "2 SECRET ", "price": 8000 }
+                  { "name": "1 SECRET ", "price": 3000 },
+                  { "name": "2 SECRET ", "price": 5000 }
                 ]
               },
               {
@@ -63,8 +63,8 @@ const productsData = {
                 "icon": "fas fa-coins",
                 "description": "Coin Fish It",
                 "variants": [
-                  { "name": "1M coin ", "price": 8000 },
-                  { "name": "2M coin ", "price": 15000 }
+                  { "name": "1M coin ", "price": 3000 },
+                  { "name": "2M coin ", "price": 5000 }
                   ]
               }, 
               {
@@ -74,7 +74,7 @@ const productsData = {
                 "description": "Untuk enchant rod kalian", 
                 "variants": [
                   { "name" : "15 enchant stone", "price": 1000 }, 
-                  { "name" : "35 enchant Stone", "price": 2000 }
+                  { "name" : "30 enchant Stone", "price": 2000 }
                 ]
               }, 
               {
